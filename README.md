@@ -3,7 +3,7 @@
 
 ## 🧠 Sobre o Projeto
 
-Este projeto de dashboard de vendas foi desenvolvido com o objetivo de aprofundar meus conhecimentos em Power BI. Ele apresenta uma visão clara e interativa dos principais indicadores de desempenho em vendas, como faturamento total, quantidade vendida, produto mais vendido, além de análises por marca e por continente. O trabalho foi baseado na replicação de um projeto apresentado em um vídeo do Canal Hashtag Treinamentos [https://www.youtube.com/watch?v=cLwA7_hW8dA&list=PLQlQvFQvLm4qTXWLNIIc5-UleOWabjv5i&index=8](Link do vídeo), permitindo que eu praticasse diversos conceitos essenciais da ferramenta.
+Este projeto de dashboard de vendas foi desenvolvido com o objetivo de aprofundar meus conhecimentos em Power BI. Ele apresenta uma visão clara e interativa dos principais indicadores de desempenho em vendas, como faturamento total, quantidade vendida, produto mais vendido, além de análises por marca e por continente. O trabalho foi baseado na replicação de um projeto apresentado em um vídeo do Canal Hashtag Treinamentos [Link do vídeo](https://www.youtube.com/watch?v=cLwA7_hW8dA&list=PLQlQvFQvLm4qTXWLNIIc5-UleOWabjv5i&index=8), permitindo que eu praticasse diversos conceitos essenciais da ferramenta.
 
 ## 💼 O que foi feito
 
