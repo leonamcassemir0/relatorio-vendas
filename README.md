@@ -37,4 +37,4 @@ O resultado é um painel intuitivo e visualmente atrativo, que permite acompanha
 
 ## 📬 Contato
 
-Se quiser conversar sobre esse projeto ou outros assuntos relacionados a dados, fique à vontade para me chamar no [LinkedIn](#) ou por e-mail: **seuemail@exemplo.com**
+Se quiser conversar sobre esse projeto ou outros assuntos relacionados a dados, fique à vontade para me chamar no [LinkedIn](www.linkedin.com/in/leonam-cassemiro-2564ba300)
